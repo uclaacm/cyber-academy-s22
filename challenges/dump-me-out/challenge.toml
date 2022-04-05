@@ -1,0 +1,9 @@
+slug = "dump-me-out"
+title = "Dump me Out"
+author = "Salma"
+value = 30
+description = """A confused programmer has written and compiled some C code for you! They long to understand where exactly certain instructions are being executed in memory so they turn to you for help, providing you with a copy of the original C code and a disassembeled version produced by running the command 'objdump -d' on their executable. While they'd love to know the memory address(es) of each instruction, they'll settle for the address or set of addresses corresponding to the C code on line 10 ((*ptr) += 6). The location of this line of code in memory will be your flag! If this step corresponds to multiple addresses in memory, list them in order of appearance.  Here is your [C code](dumpMeOut.c) and your [disassembled executable](dumpedOut.txt). Good luck!"""
+tags = ["assembly"]
+files = ["dumpMeOut.c","dumpedOut.txt"]
+flag = "flag{11b611ba11bc11bf11c3}"
+enabled = true
