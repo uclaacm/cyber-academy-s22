@@ -1,0 +1,8 @@
+id = 2
+title = "Cyber Academy: Reverse Engineering and Dynamic Analysis"
+short = "Dynamic Analysis" 
+date = "Wednesday 4/13 6:00PM-8:00PM PT"
+description = """Want to learn about examining computer memory during program execution? Need help with your CS projects? Come to our workshop this week to learn all about dynamic analysis! Whether you want to learn the fundamentals or already know a bit and are just looking for tips and tricks to make your life easier, we can help!
+"""
+link = ""
+slides = ""
