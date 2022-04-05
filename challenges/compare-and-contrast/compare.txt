@@ -1,0 +1,37 @@
+section. data
+a	 dq	4
+
+section. text
+global _start
+_start:
+mov	rax	qword[a]
+mov 	rdx	2
+mul	rdx
+mov	qword[a]	rax
+cmp	4		rax
+jne	L2
+sub	rax	6
+mov 	qword[a]	rax
+L2:
+cmp	0	rax
+jle	L3
+mov	rdx	17
+mul	rdx
+mov	qword[a]	rax
+L3:
+cmp	rax	0
+jns	L4
+mov	rdx	13
+mul	rdx
+mov 	qword[a]	rax
+L4:
+mov	rbx	2
+div	rbx
+cmp	edx	0
+jne	L5
+mov	rax	qword[a]
+sub	rax	36
+mov	qword[a]	rax
+L5:
+mov	rax	0
+ret

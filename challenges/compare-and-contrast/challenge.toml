@@ -1,0 +1,9 @@
+slug = "compare-and-contrast"
+title = "Compare and Contrast"
+author = "Salma"
+value = 25
+description = """Given this simplified [assembly code](compare.txt), determine what the value of a will be by the end. This will be your flag (formatted flag{value})."""
+tags = ["assembly"]
+files = ["compare.txt"]
+flag = "flag{100}"
+enabled = true
