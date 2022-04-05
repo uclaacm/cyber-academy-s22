@@ -1,0 +1,9 @@
+slug = "assemble-the-assembly"
+title = "Assemble the Assembly"
+author = "Juliet"
+value = 25
+description = "Given [this assembly code](assembly.s) for a function, what happens if I pass in today's date 20220406?"
+tags = ["assembly"]
+files = ["assembly.s"]
+flag = "flag{6310573152636847847899421}"
+enabled = true

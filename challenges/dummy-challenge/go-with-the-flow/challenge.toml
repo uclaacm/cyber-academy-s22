@@ -1,0 +1,9 @@
+slug = "go-with-the-flow"
+title = "Go with the Flow"
+author = "Juliet"
+value = 10
+description = "Assuming that you are working with chars (1 byte), find the answer to the following expression: 11001010 + 10010111 - 01011100. Keep leading zeros (if any) and submit flag{yourAnswerInBinary}."
+tags = ["assembly"]
+files = []
+flag = "flag{00000101}"
+enabled = true

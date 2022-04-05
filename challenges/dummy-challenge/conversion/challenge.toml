@@ -1,0 +1,9 @@
+slug = "conversion"
+title = "Conversion"
+author = "Juliet"
+value = 25
+description = "Are the following expressions hiding a message? 372 + 1718378483, 2203250181 - 132484250, 2 * 850377268, 3538337474 / 2, 612835177 + 1238912765, 1950302577 - 500"
+tags = ["assembly"]
+files = []
+flag = "flag{make_this_an_nft??}"
+enabled = true
