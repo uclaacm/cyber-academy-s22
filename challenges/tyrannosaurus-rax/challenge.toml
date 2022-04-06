@@ -1,0 +1,9 @@
+slug = "tyrannosaurus-rax"
+title = "Tyrannosaurus RAX"
+author = "Nik"
+value = 30
+description = """Scientists made a groundbreaking recalculation of the speed of the meteor that brutally murdered the dinosaurs! The original paper was put behind a paywall, though, so all we have to work with is the assembly file they used to calculate the number. The T-RAX demolishing velocity is in the RAX register right before [the program](t-rax.asm) ends. What is that value in hex?"""
+tags = ["assembly"]
+files = ["t-rax.asm"]
+flag = "flag{9b175bd4e5d387d8}"
+enabled = true
