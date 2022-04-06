@@ -1,0 +1,9 @@
+slug = "kayaking"
+title = "Kayaking"
+author = "Nik"
+value = 15
+description = """I found this weird assembly file titled [kayaking.asm](kayaking.asm). I left a couple comments in the code, but couldn't figure out what it's doing. When I run it, it keeps giving me weird answers based on what I type in. What is it checking for??"""
+tags = ["assembly"]
+files = ["kayaking.asm"]
+flag = "flag{palindrome}"
+enabled = true
