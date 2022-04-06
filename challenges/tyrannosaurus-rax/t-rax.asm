@@ -42,7 +42,7 @@ jmp dinosaur
 theMeteor:
 or  rax, qword[z]
 ; what is the value of RAX now?
-; enter the flag as hexadecimal in the format flag{0xFLAG_HEX_HERE}
+; enter the flag as hexadecimal in the format flag{FLAG_HEX_HERE}
 
 mov rax, 60 ; system call to exit program normally
 mov rdi, 0
