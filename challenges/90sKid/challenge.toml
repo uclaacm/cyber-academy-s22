@@ -1,0 +1,9 @@
+slug = "90sKid"
+title = "90s Kid"
+author = "Caolinn"
+value = 10
+description = """Twist it! Turn it! Pull it! Reverse Engineer [it](90sKid.png)! """
+tags = ["dynamic analysis"]
+files = ["90sKid"]
+flag = "flag{bop}"
+enabled = true
