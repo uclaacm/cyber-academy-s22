@@ -1,0 +1,9 @@
+slug = "naming-conventions"
+title = "Naming Conventions"
+author = "Steph"
+value = 45
+description = """ Congrats on adopting a new kitten! Please don't forget to [register](adoption) their name!  """
+tags = ["buffer-overflow"]
+files = ["adoption"]
+flag = "flag{th3_c4t5_0ut_of_th3_b4g}"
+enabled = true
