@@ -1,7 +1,7 @@
 slug = "naming-conventions"
 title = "Naming Conventions"
 author = "Steph"
-value = 45
+value = 20
 description = """ Congrats on adopting a new kitten! Please don't forget to [register](adoption) their name!  """
 tags = ["buffer-overflow"]
 files = ["adoption"]
