@@ -4,6 +4,6 @@ author = "Laura"
 value = 15
 description = """Welcome to the cat cafe! We have a bunch of cats happy to play with you! Come talk with them [here](meow)"""
 tags = ["overflow"]
-files = [meow]
+files = ["meow"]
 flag = "flag{c4ts_4nd_c0ffee}"
 enabled = true
