@@ -1,0 +1,9 @@
+slug = "lunchtime"
+title = "Lunchtime"
+author = "Laura"
+value = 10
+description = """Poor Fluffy hasn't had food for a full hour! Fluffy needs food, and fast! Only problem is, the human decided Fluffy was 'too fat' and 'needed to eat less' and put a security lock on Fluffy's food bowl. Can you [help](cat) him crack the code?"""
+tags = ["overflow"]
+files = ["cat"]
+flag = "flag{me0w_m1x}"
+enabled = true

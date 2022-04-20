@@ -1,0 +1,9 @@
+slug = "buffer-overflow-feedback"
+title = "Buffer Overflow and Binary Exploitation Feedback"
+author = "Laura"
+value = 5
+description = """Please fill out the [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdbTXBImqHSqbd0_qVRuE1R3HUKY1UtR4ERqbjhv0YITHEiJA/viewform?usp=sf_link)! It helps us to improve future workshops!"""
+tags = ["overflow"]
+files = []
+flag = "flag{buff3r_0v3rflowwwwwwwwwwwwwwwwwwwww}"
+enabled = true
