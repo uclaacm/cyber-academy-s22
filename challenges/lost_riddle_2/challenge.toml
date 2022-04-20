@@ -1,0 +1,9 @@
+slug = "lost_riddle_2"
+title = "Second Lost Riddle"
+author = "Luke"
+value = 30
+description = """I lost my riddles but still remember the answers somehow. Do you think you can figure them out without the riddles? Binary [here](lost_riddles), limited source [here](source.c)."""
+tags = ["overflow"]
+files = ["lost_riddles", "source.c"]
+flag = "flag{f0ol1sh_4mb1t10n5}"
+enabled = true
