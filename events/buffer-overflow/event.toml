@@ -1,4 +1,4 @@
-id = 3
+id = 4
 title = "Cyber Academy: Buffer Overflow and Binary Exploitation Basics"
 short = "Buffer Overflow" 
 date = "Wednesday 4/20 6:00PM-8:00PM PT"
@@ -7,4 +7,4 @@ description = """Ever wanted to be able to modify a program to arbitrarily execu
 Zoom Link: [https://ucla.zoom.us/j/94178019377](https://ucla.zoom.us/j/94178019377)
 """
 link = "https://fb.me/e/1KC9AeJY8"
-slides = ""
+slides = "https://docs.google.com/presentation/d/1MEdW4Xntm0UUujQdnS73dsECNXGeE2RpAhpZDjDxZbk/edit?usp=sharing"
