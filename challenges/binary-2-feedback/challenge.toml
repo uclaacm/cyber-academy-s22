@@ -1,0 +1,9 @@
+slug = "binary-2-feedback"
+title = "Binary 2 Feedback"
+author = "Jerry"
+value = 5
+description = """Please fill out the last [feedback form](https://forms.gle/urAmjdLrQup1QiQWA) of the quarter! Hope to see y'all next year :)"""
+tags = ["binary"]
+files = []
+flag = "flag{beep_beep_01010101_boop_boop}"
+enabled = true
