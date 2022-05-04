@@ -1,9 +1,9 @@
-slug = "rolls-1"
-title = "Rolls 1"
+slug = "rolls-2"
+title = "Rolls 2"
 author = "Jerry"
-value = 25
-description = """The same [sushi place](roll2) as before has renovated its location, cleaned up some messes. Hungry for sushi, you are curious if there is a way to get sushi for a nonexistent monetary amount."""
+value = 30
+description = """The same [sushi place](rolls2) as before has renovated its location, cleaned up some messes. Hungry for sushi, you are curious if there is a way to get sushi for a nonexistent monetary amount."""
 tags = ["binary"]
-files = ["roll2"]
+files = ["rolls2"]
 flag = "flag{sushi_is_a_salad}"
 enabled = true
