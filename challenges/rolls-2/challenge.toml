@@ -1,0 +1,9 @@
+slug = "rolls-1"
+title = "Rolls 1"
+author = "Jerry"
+value = 25
+description = """The same [sushi place](roll2) as before has renovated its location, cleaned up some messes. Hungry for sushi, you are curious if there is a way to get sushi for a nonexistent monetary amount."""
+tags = ["binary"]
+files = ["roll2"]
+flag = "flag{sushi_is_a_salad}"
+enabled = true
