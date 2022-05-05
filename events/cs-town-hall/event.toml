@@ -1,0 +1,13 @@
+id = 3
+title = "CS Town Hall"
+short = "CTF After Dark" 
+date = "Wednesday 5/18 6:00PM-8:00PM PT"
+description = """
+Hosted by ACM, exploretech, and UPE, the CS Town Hall is an opportunity for all students that take classes in the CS department to interact with the UCLA Computer Science Department and provide feedback, give suggestions, and discuss potential issues. The CS Vice Chair for Undergraduate Studies, Professor Glenn Reinman, will be in attendance, along with other CS professors, to answer questions and hear student input.
+The Town Hall will be Wednesday, May 11 from 6-8 pm in the Mong Learning Center and will be catered by Bella Pita.
+Please RSVP for the event here: [https://tinyurl.com/22town-hall-rsvp](https://tinyurl.com/22town-hall-rsvp)
+Please fill out the Survey here: [https://tinyurl.com/cs-town-hall-s22](https://tinyurl.com/cs-town-hall-s22)
+The Survey will close next Friday (May 6 at 11:59 pm) and those that fill out the survey will have access to the catered food at the event.
+"""
+link = "https://fb.me/e/1p4jMILG8"
+slides = "https://tinyurl.com/22town-hall-rsvp"
