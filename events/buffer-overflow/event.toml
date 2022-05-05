@@ -1,6 +1,6 @@
 id = 4
 title = "Cyber Academy: Buffer Overflow and Binary Exploitation Basics"
-short = "Buffer Overflow" 
+short = "buffer-overflow" 
 date = "Wednesday 4/20 6:00PM-8:00PM PT"
 description = """Ever wanted to be able to modify a program to arbitrarily execute your own code? Well you’re in luck! Come to our workshop on buffer overflow and binary exploitation in week 4 to learn more about how to take advantage of the stack using non-arbitrated input.
 
