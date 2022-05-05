@@ -1,6 +1,6 @@
 id = 1
 title = "Cyber Academy: Intro to Assembly and Reverse Engineering"
-short = "assembly" 
+short = "Assembly" 
 date = "Wednesday 4/6 6:00PM-8:00PM PT"
 description = """Are you enrolled in CS 33? Interested in how computers work at the lowest software level? Both!? 🤯Come learn the basics of reading, interpreting, and maybe even writing assembly code! You'll get a head start in CS 33 and have a better understanding of how computers work at a fundamental level.
 
